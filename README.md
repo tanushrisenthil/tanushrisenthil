@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Tanushri Senthil
+First-year Computer Engineering student @ NTU, Singapore
+
+## Currently learning
+Python, and losing an ongoing argument with Big O Notation
+
+## Things I've Built
+- Multilingual Translator
+- Grocery Price Comparison App
+
+## Reach Me
+LinkedIn: Tanushri Senthil
+School Email: tanushri001@e.ntu.edu.sg
 
 <!--
 **tanushrisenthil/tanushrisenthil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
