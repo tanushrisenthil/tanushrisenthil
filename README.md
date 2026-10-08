@@ -1,7 +1,7 @@
 ## Hi, I'm Tanushri Senthil
 First-year Computer Engineering student @ NTU, Singapore
 
-## Currently learning
+## Currently Learning
 Python, and losing an ongoing argument with Big O Notation
 
 ## Things I've Built
