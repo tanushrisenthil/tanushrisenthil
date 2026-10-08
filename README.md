@@ -9,7 +9,7 @@ Python, and losing an ongoing argument with Big O Notation
 - Grocery Price Comparison App
 
 ## Reach Me
-LinkedIn: Tanushri Senthil | School Email: tanushri001@e.ntu.edu.sg
+www.linkedin.com/in/tanushri-senthil | tanushri001@e.ntu.edu.sg
 
 <!--
 **tanushrisenthil/tanushrisenthil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
