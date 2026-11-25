@@ -2,7 +2,7 @@
 First-year Computer Engineering student @ NTU, Singapore
 
 ## Currently Learning
-Python, and losing an ongoing argument with Big O Notation
+Exploring Python, AI and Cybersecurity
 
 ## Things I've Built
 - Multilingual Translator
